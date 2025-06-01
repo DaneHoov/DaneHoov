@@ -21,8 +21,8 @@ I'm a full-stack software developer inspired to bring meaningful ideas to life t
 </p>
 
 ## ⭐ Projects
-- [📸 Glint](https://github.com/danehoover/glint) – A photo-sharing platform
-- [📈 StockYard](https://github.com/danehoover/stockyard) – A mock stock trading platform
+- [📸 Glint](https://github.com/DaneHoov/Glint) – A photo-sharing platform
+- [📈 StockYard](https://github.com/DaneHoov/StockYard) – A mock stock trading platform
 
 ## 📫 Contact Me
 - Email: [DaneHoov22@gmail.com](mailto:DaneHoov22@gmail.com)
